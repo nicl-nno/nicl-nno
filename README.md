@@ -10,7 +10,7 @@ My research papers are available in [Google Scholar](https://scholar.google.com/
 Some of my publications, talks and presentations:
 
 In English:
-- [FEDOT - открытый фреймворк автоматического машинного обучения для композитных моделей](https://www.youtube.com/watch?v=qiVRZvJCio0) - AI Journey, November 2021
+- [FEDOT - open-source AutoML for composite pipelines](https://www.youtube.com/watch?v=qiVRZvJCio0) - AI Journey, November 2021
 - [FEDOT: Evolutionary composite AutoML as Human-competitive result](https://www.youtube.com/watch?v=9Rhqcsrolb8&ab_channel=NSS-Lab) - GECCO, July 2021
 - [How AutoML helps to create composite AI?](https://towardsdatascience.com/how-automl-helps-to-create-composite-ai-f09e05287563) - TDS, June 2021
 - [Evolutionary automation of ML pipelines with FEDOT Framework](https://www.youtube.com/watch?v=wXIP-1wGYQ8) - MLREPA, April 2021
