@@ -17,6 +17,7 @@ In English:
 - [The multi-objective optimisation of breakwaters using evolutionary approach](https://www.youtube.com/watch?v=sJAc-aKCals) - MARTECH, November 2020
 
 In Russian:
+- [Фреймворк автоматического машинного обучения FEDOT](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fi27LScu3s3IIHDzIXt9O5EiEAMl6ThY6QLu3X1oYH%2FFiAl%2BLcNp4O4yTSYd2gRZnW5aDQ4kMZEXE%2BwNjbq78ug%3D%3D%3A%2F%D0%94%D0%B5%D0%BD%D1%8C%201%2F4.%D0%A1%D0%B8%D0%BD%D0%BD%D0%B0%D0%BA%D1%81%2F9.Open%20source-%D1%82%D1%80%D0%B8%D0%B1%D1%83%D0%BD%D0%B0_HL_FEDOT.pptx&name=9.Open%20source-%D1%82%D1%80%D0%B8%D0%B1%D1%83%D0%BD%D0%B0_HL_FEDOT.pptx&nosw=1) - Highload++, May 2022
 - [FEDOT - открытый фреймворк автоматического машинного обучения для композитных моделей](https://www.youtube.com/watch?v=JblS7AmnkXA) - AI Journey, November 2021
 - [AutoML для композитных моделей на мульти-модальных данных](https://www.youtube.com/watch?v=wX-3es2gXro) - НЦКР + MLRepa, June 2021
 - [Как AutoML помогает создавать модели композитного ИИ](https://habr.com/ru/company/spbifmo/blog/558450/) - Habr, May 2021
