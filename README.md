@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nikolay Nikitin</h1>
 <h3 align="center">AI/ML researcher and team lead in ITMO Iniversity</h3>
 
-My research field is composite AI, generative design of digital and physical objects, numerical optimization, environmental simulation. 
+My research field is AutoML, composite AI, generative design of digital and physical objects, numerical optimization, environmental simulation. 
 
-I’m currently working on [FEDOT framework](https://github.com/nccr-itmo/FEDOT) and other AI/ML tools.
+I’m currently working on [FEDOT framework](https://github.com/nccr-itmo/FEDOT), [GEFEST library](https://github.com/ITMO-NSS-team/GEFEST) and other AI/ML tools.
 
 My research papers are available in [Google Scholar](https://scholar.google.com/citations?user=eQBTGccAAAAJ&hl=ru). How to reach me - **nicl.nno@gmail.com**
 
