@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nikolay Nikitin</h1>
-<h3 align="center">AI/ML researcher and team lead in ITMO Iniversity</h3>
+<h3 align="center">AI/ML researcher, team lead and open-source activist in ITMO University</h3>
 
 My research field is AutoML, composite AI, generative design of digital and physical objects, numerical optimization, environmental simulation. 
 
@@ -17,6 +17,8 @@ In English:
 - [The multi-objective optimisation of breakwaters using evolutionary approach](https://www.youtube.com/watch?v=sJAc-aKCals) - MARTECH, November 2020
 
 In Russian:
+- [Доступный AutoML: как оптимизировать работу с ML-моделями с помощью VK Cloud и FEDOT](https://vk.com/video-164978780_456239220) - НЦКР + VK Cloud, October 2022
+- [AutoML на 360. Как выбрать технологии и внедрить](https://www.youtube.com/watch?v=__JNZKrpx7c) - VK Cloud Conf, June 2022
 - [Фреймворк автоматического машинного обучения FEDOT](https://youtu.be/6e0wzxnUGuE?t=1320) - Highload++, May 2022
 - [FEDOT - открытый фреймворк автоматического машинного обучения для композитных моделей](https://www.youtube.com/watch?v=JblS7AmnkXA) - AI Journey, November 2021
 - [AutoML для композитных моделей на мульти-модальных данных](https://www.youtube.com/watch?v=wX-3es2gXro) - НЦКР + MLRepa, June 2021
