@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nikolay Nikitin</h1>
-<h3 align="center">AI/ML researcher, team lead and open-source activist in ITMO University</h3>
+<h3 align="center">AI/ML researcher in NSS Lab in ITMO University, Head of AutoML Lab, and open-source activist</h3>
 
 My research field is AutoML, composite AI, generative design of digital and physical objects, numerical optimization, environmental simulation. 
 
