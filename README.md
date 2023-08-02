@@ -3,7 +3,7 @@
 
 My research field is AutoML, composite AI, generative design of digital and physical objects, numerical optimization, environmental simulation. 
 
-I’m currently working on [FEDOT framework](https://github.com/nccr-itmo/FEDOT), [GEFEST library](https://github.com/ITMO-NSS-team/GEFEST) and other AI/ML tools.
+I’m currently working on [FEDOT framework](https://github.com/nccr-itmo/FEDOT), [GEFEST library](https://github.com/ITMO-NSS-team/GEFEST) and other AI/ML tools. Also, I am a founder of [ITMO Opensource Club](https://github.com/aimclub/open-source-ops).
 
 My research papers are available in [Google Scholar](https://scholar.google.com/citations?user=eQBTGccAAAAJ&hl=ru). How to reach me - **nicl.nno@gmail.com**
 
@@ -14,9 +14,9 @@ In English:
 - [FEDOT: Evolutionary composite AutoML as Human-competitive result](https://www.youtube.com/watch?v=9Rhqcsrolb8&ab_channel=NSS-Lab) - GECCO, July 2021
 - [How AutoML helps to create composite AI?](https://towardsdatascience.com/how-automl-helps-to-create-composite-ai-f09e05287563) - TDS, June 2021
 - [Evolutionary automation of ML pipelines with FEDOT Framework](https://www.youtube.com/watch?v=wXIP-1wGYQ8) - MLREPA, April 2021
-- [The multi-objective optimisation of breakwaters using evolutionary approach](https://www.youtube.com/watch?v=sJAc-aKCals) - MARTECH, November 2020
 
 In Russian:
+- [Мечтает ли GPT об автоматическом машинном обучении?](https://www.youtube.com/watch?v=3f_voYqNgDI) - ИТМО, май 2023
 - [Доступный AutoML: как оптимизировать работу с ML-моделями с помощью VK Cloud и FEDOT](https://vk.com/video-164978780_456239220) - НЦКР + VK Cloud, October 2022
 - [AutoML на 360. Как выбрать технологии и внедрить](https://www.youtube.com/watch?v=__JNZKrpx7c) - VK Cloud Conf, June 2022
 - [Фреймворк автоматического машинного обучения FEDOT](https://youtu.be/6e0wzxnUGuE?t=1320) - Highload++, May 2022
