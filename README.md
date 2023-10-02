@@ -16,7 +16,9 @@ In English:
 - [Evolutionary automation of ML pipelines with FEDOT Framework](https://www.youtube.com/watch?v=wXIP-1wGYQ8) - MLREPA, April 2021
 
 In Russian:
-- [Мечтает ли GPT об автоматическом машинном обучении?](https://www.youtube.com/watch?v=3f_voYqNgDI) - ИТМО, май 2023
+- [Мечтает ли GPT об автоматическом машинном обучении?](https://www.youtube.com/watch?v=3f_voYqNgDI) - ITMO, May 2023
+- [Open Source для решения реальных задач по обработке данных](https://www.youtube.com/watch?v=XAZkI6O0lDo), Yandex, July 2023
+- [Как и зачем делать научный открытый код](https://www.youtube.com/watch?v=whX1qLbmxUE) - ITMO, December 2022
 - [Доступный AutoML: как оптимизировать работу с ML-моделями с помощью VK Cloud и FEDOT](https://vk.com/video-164978780_456239220) - НЦКР + VK Cloud, October 2022
 - [AutoML на 360. Как выбрать технологии и внедрить](https://www.youtube.com/watch?v=__JNZKrpx7c) - VK Cloud Conf, June 2022
 - [Фреймворк автоматического машинного обучения FEDOT](https://youtu.be/6e0wzxnUGuE?t=1320) - Highload++, May 2022
