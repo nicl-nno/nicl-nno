@@ -16,6 +16,7 @@ In English:
 - [Evolutionary automation of ML pipelines with FEDOT Framework](https://www.youtube.com/watch?v=wXIP-1wGYQ8) - MLREPA, April 2021
 
 In Russian:
+- [Open Source в российском ИИ: исследование ландшафта](https://habr.com/ru/companies/spbifmo/articles/805455) - ITMO, April 2024
 - [Мечтает ли GPT об автоматическом машинном обучении?](https://www.youtube.com/watch?v=3f_voYqNgDI) - ITMO, May 2023
 - [Open Source для решения реальных задач по обработке данных](https://www.youtube.com/watch?v=XAZkI6O0lDo), Yandex, July 2023
 - [Как и зачем делать научный открытый код](https://www.youtube.com/watch?v=whX1qLbmxUE) - ITMO, December 2022
