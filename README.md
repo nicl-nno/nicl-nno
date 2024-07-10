@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikolay Nikitin</h1>
 <h3 align="center">AI/ML researcher in NSS Lab in ITMO University, Head of AutoML Lab, and open-source activist</h3>
 
-My research field is AutoML, composite AI, generative design of digital and physical objects, numerical optimization, environmental simulation. 
+My research field sare AutoML, composite AI, LLMs, generative design of digital and physical objects, numerical optimization, metocean simulation. 
 I am the chair or [AI4Science](https://ai4sciencecommunity.github.io/) workshop at ICML conference and AutoML workshop at [AINL](https://ainlconf.ru/) conference.
 
 I’m currently working on [FEDOT framework](https://github.com/aimclub/FEDOT), [GEFEST library](https://github.com/aimclub/GEFEST) and other AI/ML tools. Also, I am a founder of [ITMO Opensource Club](https://github.com/aimclub/open-source-ops).
