@@ -2,9 +2,9 @@
 <h3 align="center">AI/ML researcher in NSS Lab in ITMO University, Head of AutoML Lab, and open-source activist</h3>
 
 My research fields are AutoML, composite AI, LLMs, generative design, numerical optimization. 
-I am the chair or [AI4Science](https://ai4sciencecommunity.github.io/) workshop at ICML conference and AutoML workshop at [AINL](https://ainlconf.ru/) conference.
+I am the chair or [AI4Science](https://ai4sciencecommunity.github.io/) workshop at ICML conference and AutoML workshop at [AINL](https://ainlconf.ru/) conference, author of A* and Q1 papers.
 
-I’m currently working on [FEDOT framework](https://github.com/aimclub/FEDOT), [GEFEST library](https://github.com/aimclub/GEFEST) and other AI/ML tools. Also, I am a founder of [ITMO Opensource Club](https://github.com/aimclub/open-source-ops).
+I’m currently working on [FEDOT framework](https://github.com/aimclub/FEDOT), [GEFEST library](https://github.com/aimclub/GEFEST) and other AI/ML tools. Also, I am a leader of [ITMO Opensource Community](https://github.com/aimclub/open-source-ops).
 
 My research papers are available in [Google Scholar](https://scholar.google.com/citations?user=eQBTGccAAAAJ&hl=ru). How to reach me - **nicl.nno@gmail.com**
 
