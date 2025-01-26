@@ -4,13 +4,14 @@
 My research fields are AutoML, composite AI, LLMs, generative design, numerical optimization. 
 I am the chair or [AI4Science](https://ai4sciencecommunity.github.io/) workshop at ICML conference and AutoML workshop at [AINL](https://ainlconf.ru/) conference, author of A* and Q1 papers. Also, I am an winner of [Yandex ML Prize](https://yandex.com/scholarships/) adward (as "young academic supervisor").
 
-I’m currently working on [FEDOT framework](https://github.com/aimclub/FEDOT), [GEFEST library](https://github.com/aimclub/GEFEST) and other AI/ML tools. Also, I am a leader of [ITMO Opensource Community](https://github.com/aimclub/open-source-ops).
+I’m currently working on [FEDOT](https://github.com/aimclub/FEDOT), [GEFEST](https://github.com/aimclub/GEFEST) and other AI/ML tools. Also, I am a leader of [ITMO Opensource Community](https://github.com/aimclub/open-source-ops).
 
 My research papers are available in [Google Scholar](https://scholar.google.com/citations?user=eQBTGccAAAAJ&hl=ru). How to reach me - **nicl.nno@gmail.com**
 
 Some of my publications, talks and presentations:
 
 In Russian:
+- [Интервью со мной - "Чем open source может помочь ученым?"](https://habr.com/ru/articles/876770/) - Habr, 2025
 - [Обеспечат ли LLM прорыв в эффективности AutoML?](https://www.youtube.com/watch?v=EtOsHWCu5lU) - AIConf, 2024
 - [Как обеспечить воспроизводимость научных исследований в AI/ML с помощью Open Source](https://www.youtube.com/watch?v=byexwNb37sQ) - Saint Highload++, 2024
 - [Open Source в российском ИИ: исследование ландшафта](https://habr.com/ru/companies/spbifmo/articles/805455) - ITMO, April 2024
