@@ -4,7 +4,7 @@
 My research fields are AutoML, composite AI, LLMs, generative design, numerical optimization. 
 I am the chair or [AI4Science](https://ai4sciencecommunity.github.io/) workshop at ICML conference and AutoML workshop at [AINL](https://ainlconf.ru/) conference, author of A* and Q1 papers. Also, I am an winner of [Yandex ML Prize](https://yandex.com/scholarships/) adward (as "young academic supervisor").
 
-I’m currently working on [FEDOT](https://github.com/aimclub/FEDOT), [GEFEST](https://github.com/aimclub/GEFEST) and other AI/ML tools. Also, I am a leader of [ITMO Opensource Community](https://github.com/aimclub/open-source-ops).
+I’m currently working on [FEDOT](https://github.com/aimclub/FEDOT), [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor) and other AI/ML tools. Also, I am a leader of [ITMO Opensource Community](https://github.com/aimclub/open-source-ops).
 
 My research papers are available in [Google Scholar](https://scholar.google.com/citations?user=eQBTGccAAAAJ&hl=ru). How to reach me - **nicl.nno@gmail.com**
 
