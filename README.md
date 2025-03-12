@@ -4,7 +4,7 @@
 My research fields are AutoML, composite AI, LLMs, generative design, numerical optimization. 
 I am the chair or [AI4Science](https://ai4sciencecommunity.github.io/) workshop at ICML conference and AutoML workshop at [AINL](https://ainlconf.ru/) conference, author of A* and Q1 papers. Also, I am an winner of [Yandex ML Prize](https://yandex.com/scholarships/) adward (as "young academic supervisor").
 
-I’m currently working on [FEDOT](https://github.com/aimclub/FEDOT), [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor) and other AI/ML tools. Also, I am a leader of [ITMO Opensource Community](https://github.com/aimclub/open-source-ops).
+I’m currently working on [FEDOT](https://github.com/aimclub/FEDOT), [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor), [ProtoLLM](https://github.com/aimclub/ProtoLLM) and other AI/ML tools. Also, I am a leader of [ITMO Opensource Community](https://t.me/scientific_opensource).
 
 My research papers are available in [Google Scholar](https://scholar.google.com/citations?user=eQBTGccAAAAJ&hl=ru). How to reach me - **nicl.nno@gmail.com**
 
@@ -26,6 +26,7 @@ In Russian:
 - [Как эффективно разработать современную модель кредитного скоринга на R](https://www.youtube.com/watch?v=fCM8mQJGims) - Saint Petersburg R User Group, February 2020
 
 In English:
+- [Multi-Agent LLMs for science](https://www.youtube.com/watch?v=xSSVPmIvIoo) - MindSpore SPONGE Tech Share, February 2025
 - [FEDOT - open-source AutoML for composite pipelines](https://www.youtube.com/watch?v=qiVRZvJCio0) - AI Journey, November 2021
 - [FEDOT: Evolutionary composite AutoML as Human-competitive result](https://www.youtube.com/watch?v=9Rhqcsrolb8&ab_channel=NSS-Lab) - GECCO, July 2021
 - [How AutoML helps to create composite AI?](https://towardsdatascience.com/how-automl-helps-to-create-composite-ai-f09e05287563) - TDS, June 2021
