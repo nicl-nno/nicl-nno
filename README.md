@@ -11,6 +11,7 @@ My research papers are available in [Google Scholar](https://scholar.google.com/
 Some of my publications, talks and presentations:
 
 In Russian:
+- [Как LLM помогают учёным: AutoML, LLM-ассистенты и опенсорс](https://www.youtube.com/watch?v=PMmk6DajTAk) - Aha!, 2025
 - [Интервью со мной - "Чем open source может помочь ученым?"](https://habr.com/ru/articles/876770/) - Habr, 2025
 - [Обеспечат ли LLM прорыв в эффективности AutoML?](https://www.youtube.com/watch?v=EtOsHWCu5lU) - AIConf, 2024
 - [Как обеспечить воспроизводимость научных исследований в AI/ML с помощью Open Source](https://www.youtube.com/watch?v=byexwNb37sQ) - Saint Highload++, 2024
